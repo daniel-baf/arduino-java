@@ -1,5 +1,16 @@
 # Arduino-Java Serial Communication Project
 
+## Videos
+[OneDrive](https://correo2urledu-my.sharepoint.com/:f:/g/personal/debautistaf_correo_url_edu_gt/EoPwH6BJYT9DgoQr6SfHgSMBos1LqvgPIwofVYtsBfESUg?e=zu3c90)
+
+## Group
+
+- Daniel Eduardo Bautista Fuentes 2121323 
+- Pablo Andrés Coti Arredondo 1653221 
+- Andreé Antonio Robles Méndez 1523820 
+- Rodrigo Javier Ovalle Vásquez 1557020 
+- Marco Andrés Paz Mazariegos 1528020 
+
 ## Overview
 
 This project combines Arduino and Java to create a versatile home automation system. The functionalities include turning on or off lights in multiple rooms, controlling a garage door with a servo motor, and selecting a Bluetooth device to send data through serial communication.
@@ -39,7 +50,7 @@ This project combines Arduino and Java to create a versatile home automation sys
 4. **Configure Bluetooth Connection:**
    - Configure the Bluetooth settings in the Java application to select the desired device for serial communication.
 
-5. **Run the Java Application:**
+5. **Run the Java Application: APK**
    - Run the Java application to launch the user interface for controlling the smart home functionalities.
 
 6. **Test Functionality:**
